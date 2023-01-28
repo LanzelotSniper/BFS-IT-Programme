@@ -7,7 +7,7 @@ int main()
 	//Variablen Deklaration
 	int 	a;
 	float 	b;
-	int		c;
+	float	c;
 //IO
 cout<<"Bitte geben Sie den Umsatz des Verkaeufers an."<<endl;
 cin>>a;
