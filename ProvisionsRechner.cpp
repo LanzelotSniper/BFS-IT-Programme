@@ -9,7 +9,7 @@ int main()
 	float 	b;
 	int		c;
 //IO
-cout<<"Bitte geben sie den Umsatz des Verkaeufers an."<<endl;
+cout<<"Bitte geben Sie den Umsatz des Verkaeufers an."<<endl;
 cin>>a;
 //Bedingungsprüfung, Berechnung der Provision und schlussendliche Ausgabe der Zahl
 if (a>100000)
