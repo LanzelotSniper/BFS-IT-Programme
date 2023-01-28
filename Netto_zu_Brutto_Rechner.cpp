@@ -11,9 +11,9 @@ int main()
 	int mehrwertsteuer;
 	int bruttopreis;
 //IO-Sequenz und Berechnungen
-cout<<"Bitte geben sie den Preis des Produkts ein."<<endl;
+cout<<"Bitte geben Sie den Preis des Produkts ein."<<endl;
 cin>>preis;
-cout<<"Bitte geben sie die Stueckzahl des Produkts ein."<<endl;
+cout<<"Bitte geben Sie die Stueckzahl des Produkts ein."<<endl;
 cin>>stueckzahl;
 nettopreis=preis*stueckzahl;
 cout<<"Der Nettopreis betraegt: "<<nettopreis<<endl;
